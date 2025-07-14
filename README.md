@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm interested in AI, robotics, RF, and biology.
+
+🚀 Currently building legal tech for spectrum policy in the USA at [https://docket-rocket.io](https://docket-rocket.io)
+
 <!--
 **DarkmatterVale/DarkmatterVale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
